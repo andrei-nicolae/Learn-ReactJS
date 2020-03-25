@@ -31,9 +31,9 @@ until finished
 <details><summary>Expand <b>Resources</b></summary>
 <p>
 
-**Django Overview**
+**ReactJS Official Tutorial: Intro to React**
 
-Quick references to most Django functionality: https://docs.djangoproject.com/en/3.0/intro/overview/
+This tutorial doesn’t assume any existing React knowledge: https://reactjs.org/tutorial/tutorial.html
 
 
 </p>
