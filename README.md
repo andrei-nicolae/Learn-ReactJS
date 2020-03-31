@@ -3,16 +3,15 @@ A repository to store and track all resources used while learning ReactJS
 
 ## Prerequisites
 
-In order to run a local ReactJS environment, you need to have a few prerequisites:
+In order to run a local ReactJS environment, you need to have access to `npm`.
 
 ```
--node
--npm
+npm --version
 ```
+
+If running this command, returns `npm: command not found`, you need to install `node`
 
 ### Installing
-
-In order to get access to npm, you need to install *node*
 
 Although you can install Node in other ways, we recommend using Homebrew.
 
