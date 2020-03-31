@@ -9,7 +9,7 @@ In order to run a local ReactJS environment, you need to have access to `npm`.
 npm --version
 ```
 
-If running this command, returns `npm: command not found`, you need to install `node`
+If running this command, returns `npm: command not found`, you need to install **`node`**
 
 ### Installing
 
