@@ -21,7 +21,7 @@ Make sure Hombrew is up to date:
 brew update
 ```
 
-Install Node
+Install **Node**
 
 ```
 brew install node
