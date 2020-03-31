@@ -3,26 +3,29 @@ A repository to store and track all resources used while learning ReactJS
 
 ## Prerequisites
 
-What things you need to install the software and how to install them
+In order to run a local ReactJS environment, you need to have a few prerequisites:
 
 ```
-Give examples
+-node
+-npm
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+In order to get access to npm, you need to install *node*
 
-Say what the step will be
+Although you can install Node in other ways, we recommend using Homebrew.
 
-```
-Give the example
-```
-
-And repeat
+Make sure Hombrew is up to date:
 
 ```
-until finished
+brew update
+```
+
+Install Node
+
+```
+brew install node
 ```
 
 
